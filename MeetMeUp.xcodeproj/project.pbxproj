@@ -412,6 +412,7 @@
 				C4BF756D1AC09AB000A8F272 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		C4BF756E1AC09AB000A8F272 /* Build configuration list for PBXNativeTarget "MeetMeUpTests" */ = {
 			isa = XCConfigurationList;
@@ -420,6 +421,7 @@
 				C4BF75701AC09AB000A8F272 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
